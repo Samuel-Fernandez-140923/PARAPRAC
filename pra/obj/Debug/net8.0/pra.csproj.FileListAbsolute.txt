@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\pra\pra\bin\Debug\net8.0\pra.exe
+C:\Users\Administrator\source\repos\pra\pra\bin\Debug\net8.0\pra.deps.json
+C:\Users\Administrator\source\repos\pra\pra\bin\Debug\net8.0\pra.runtimeconfig.json
+C:\Users\Administrator\source\repos\pra\pra\bin\Debug\net8.0\pra.dll
+C:\Users\Administrator\source\repos\pra\pra\bin\Debug\net8.0\pra.pdb
+C:\Users\Administrator\source\repos\pra\pra\obj\Debug\net8.0\pra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\pra\pra\obj\Debug\net8.0\pra.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\pra\pra\obj\Debug\net8.0\pra.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\pra\pra\obj\Debug\net8.0\pra.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\pra\pra\obj\Debug\net8.0\pra.dll
+C:\Users\Administrator\source\repos\pra\pra\obj\Debug\net8.0\refint\pra.dll
+C:\Users\Administrator\source\repos\pra\pra\obj\Debug\net8.0\pra.pdb
+C:\Users\Administrator\source\repos\pra\pra\obj\Debug\net8.0\pra.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\pra\pra\obj\Debug\net8.0\ref\pra.dll
